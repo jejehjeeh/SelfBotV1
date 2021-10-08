@@ -1,1 +1,2 @@
-woker : npm start
+Wimli gamteng
+worker : npm start
